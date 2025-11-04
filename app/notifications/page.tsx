@@ -1,0 +1,1 @@
+export default function Notifications() { return (<div className="section"><h1 className="h1">Notifications</h1><p className="sub">See the detailed plan in the Notifications section on the Plan page.</p><a className="button" href="/plan#notifications">Go to Plan ? Notifications</a></div>); }

@@ -1,0 +1,1 @@
+export default function Jobs() { return (<div className="section"><h1 className="h1">Jobs</h1><p className="sub">See the detailed plan in the Jobs section on the Plan page.</p><a className="button" href="/plan#jobs">Go to Plan ? Jobs</a></div>); }

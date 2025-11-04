@@ -1,0 +1,1 @@
+export default function Chat() { return (<div className="section"><h1 className="h1">Chat</h1><p className="sub">See the detailed plan in the Chat section on the Plan page.</p><a className="button" href="/plan#chat">Go to Plan ? Chat</a></div>); }

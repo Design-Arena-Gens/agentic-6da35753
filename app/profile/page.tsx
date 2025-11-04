@@ -1,0 +1,1 @@
+export default function Profile() { return (<div className="section"><h1 className="h1">Profile</h1><p className="sub">See the detailed plan in the Profile section on the Plan page.</p><a className="button" href="/plan#profile">Go to Plan ? Profile</a></div>); }

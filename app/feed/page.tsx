@@ -1,0 +1,1 @@
+export default function Feed() { return (<div className="section"><h1 className="h1">Feed</h1><p className="sub">See the detailed plan in the Feed section on the Plan page.</p><a className="button" href="/plan#feed">Go to Plan ? Feed</a></div>); }

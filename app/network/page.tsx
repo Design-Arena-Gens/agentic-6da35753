@@ -1,0 +1,1 @@
+export default function Network() { return (<div className="section"><h1 className="h1">Network</h1><p className="sub">See the detailed plan in the Network section on the Plan page.</p><a className="button" href="/plan#network">Go to Plan ? Network</a></div>); }
